@@ -1,0 +1,4 @@
+Papas 5 1.00
+Tomates 50 0.80
+Cebolla 200 0.90
+Papas 200 1.00
